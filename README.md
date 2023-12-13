@@ -14,17 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="left">
-
-<br>
-<br>
 
 정리정돈을 좋아하는 백엔드 개발자입니다.
 
-
-- 💼 스프링 사용하는 백엔드 개발자
-
-- 🔭 기술에 대해 편견없고 상황에 맞는 기술을 선택해서 효율적이게 개발하길 좋아합니다!
+- 🔭 코틀린/자바/스프링을 사용하지만 기술에 대해 편견없고 상황에 맞는 기술을 선택해서 효율적이게 개발하길 좋아합니다!
 
 - 👯 동료들과 소통하며 더 나은 프로덕트를 만드는 일을 좋아합니다.
 
